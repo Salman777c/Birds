@@ -1,0 +1,10 @@
+crow
+parrot
+pigeon
+eagle
+sparrow
+humming bird
+duck
+hen
+vulture 
+peacock
